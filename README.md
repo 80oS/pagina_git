@@ -7,7 +7,7 @@ El objetivo de este proyecto es crear una *página web educativa* y aprender a p
 ---
 
 ## 🌍 Página web publicada
-🔗 []()
+🔗 [https://80os.github.io/pagina_git/](https://github.com/80oS/pagina_git)
 
 
 ## 🧱 Estructura del repositorio
